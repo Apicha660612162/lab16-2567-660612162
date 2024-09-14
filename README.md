@@ -27,3 +27,4 @@ pnpm install
 หลังจาก Deploy ด้วย Vercel แล้ว ให้แปะลิงค์ Deploy และลิงค์ GitHub Repo ของ นศ. ไว้ใน Spreadsheet ด้านล่าง
 
 [คลิกเพื่อเปิด Spreadsheet](https://o365cmu-my.sharepoint.com/:x:/g/personal/dome_potikanond_cmu_ac_th/EfmPM2Wz7OZAiAn23yVwzKwBacdSRIyVOhMjqTMzrHohMg?e=gWuUzE)
+ 
